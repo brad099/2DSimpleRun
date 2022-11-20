@@ -6,7 +6,7 @@ public class ObstacleSpawner : MonoBehaviour
 {
     public GameObject obstacle;
     public Transform tf;
-    public float spawnrate;
+    public float spawnrate = 5f;
     public float spawnTime;
     void Start()
     {

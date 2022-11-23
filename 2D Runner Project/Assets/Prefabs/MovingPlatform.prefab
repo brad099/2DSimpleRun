@@ -1297,6 +1297,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 6906580662969584220, guid: ff22a8ac4d6828e4b977145a71407bfa, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: e5c2c8311b3738a43ad64e90f9ddd877, type: 3}
     - target: {fileID: 7350804222529328057, guid: ff22a8ac4d6828e4b977145a71407bfa, type: 3}
       propertyPath: m_Name
       value: Lattice
